@@ -51,7 +51,7 @@ if(isset($_POST['cerrar'])) {
             </div>
             
             <li class="nav-item active" style="margin-top: 6px; margin-left: 50px; ">
-                <a class="nav-link" href="calendar.php">Calendario </a>
+                <a class="nav-link" href="home.php">Tareas </a>
             </li>
             
             <form action="" method="POST" style="padding-left: 50px">
